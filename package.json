@@ -1,0 +1,20 @@
+{
+  "name": "three-tutorial",
+  "version": "1.0.0",
+  "description": "A basic tutorial to Three.js",
+  "main": "index.js",
+  "repository": "https://github.com/rodrigozan/three-js-tutorial.git",
+  "author": "Rodrigo Zan",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
